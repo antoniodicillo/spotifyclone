@@ -12,8 +12,8 @@ function Header(){
             </div>
 
             <div>
-                <button className="btn-preto">Regista-se</button>
-                <button className="btn-branco">Iniciar sessão</button>
+                <button className="btn-preto">Registrar</button>
+                <button className="btn-branco">Login</button>
             </div>
         </header>
     )

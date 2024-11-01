@@ -6,7 +6,7 @@ function Sidebar(){
         <ContainerSidebar>
           <CardNull>
               <h5>
-                Spotifai
+                Spotify 2 : A musica agora é outra  
               </h5>
           </CardNull>
         </ContainerSidebar>
