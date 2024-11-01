@@ -1,6 +1,6 @@
-Projeto spotify 
+Projeto de copiar o site da spotify
 
-José Diogo e Diego Leite
+Antonio Di Cillo e ¿Gustavo Castanha?
 
 npm i
 node --watch app.js    /    npm run server
